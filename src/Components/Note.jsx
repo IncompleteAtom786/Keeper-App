@@ -9,9 +9,6 @@ function Note(props)
         }}>
             DELETE
         </p>
-        <button onClick={ () => {
-            
-        }}>Add</button>
     </div>
 }
 

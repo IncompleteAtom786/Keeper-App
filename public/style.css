@@ -58,7 +58,7 @@ body{
 .note {
     display: flex;
     flex-direction: column;
-    margin: 5px;
+    margin: 10px;
     height: fit-content;
     width: 200px;
     background-color: whitesmoke;
@@ -130,7 +130,7 @@ button:hover{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: left;
     margin-top: 10px;
 }
 
